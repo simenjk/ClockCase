@@ -1,0 +1,4 @@
+﻿cl : command line  warning D9035: option 'Gm' has been deprecated and will be removed in a future release
+  broken_main.cpp
+C:\Users\simen\OneDrive\Skrivebord\C++Assessment2015_Broken\Broken1\broken_main.cpp(45,38): warning C4996: 'ctime': This function or variable may be unsafe. Consider using ctime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  Broken1.vcxproj -> C:\Users\simen\OneDrive\Skrivebord\C++Assessment2015_Broken\Broken1\Debug\Broken1.exe
